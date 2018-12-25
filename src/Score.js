@@ -1,0 +1,1 @@
+// total score that compares player 1 and player 2 scores to accumulate a total
